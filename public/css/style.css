@@ -1,0 +1,41 @@
+h1 {
+    text-align: center;
+    color: #B7B7A4;
+}
+
+nav {
+    background-color: #6B705C;
+    padding: 10px;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+}
+
+nav li {
+    display: inline;
+    margin-right: 25px;
+}
+
+nav a {
+    color: white;
+    font-size: 1.5em;
+}
+
+nav a:hover {
+    color: pink;
+    text-decoration: none;
+}
+
+body {
+    background-color: #B7B7A4;
+    text-align: center;
+}
+
+main {
+    margin-right: 25px;
+    margin-left: 25px;
+    background-color: #FFE8D6;
+    border-radius: 5px;
+}
